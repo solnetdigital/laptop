@@ -51,6 +51,7 @@ What it sets up
 * [Qt] for headless JavaScript testing via Capybara Webkit
 * [Rails] gem for writing web applications
 * [Rbenv] for managing versions of Ruby
+* [RCM] for managing company and personal dotfiles
 * [Redis] for storing key-value data
 * [Ruby Build] for installing Rubies
 * [Ruby] stable for writing general-purpose code
@@ -74,6 +75,7 @@ What it sets up
 [Qt]: http://qt-project.org/
 [Rails]: http://rubyonrails.org/
 [Rbenv]: https://github.com/sstephenson/rbenv
+[RCM]: https://github.com/thoughtbot/rcm
 [Redis]: http://redis.io/
 [Ruby Build]: https://github.com/sstephenson/ruby-build
 [Ruby]: https://www.ruby-lang.org/en/
