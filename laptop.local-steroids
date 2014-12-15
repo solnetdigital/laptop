@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+
+fancy_echo() {
+  printf "\n%b\n" "$1"
+}
+
+fancy_echo "Installing google-chrome ..."
+  brew cask install google-chrome
+
+fancy_echo "Installing iterm2 ..."
+  brew cask install iterm2
+
+fancy_echo "Installing xquartz ..."
+  brew cask install xquartz
+
+fancy_echo "Installing virtualbox ..."
+  brew cask install virtualbox
+
+fancy_echo ">> Installing node modules ..."
+
+fancy_echo "Installing steroids ..."
+  npm install -g steroids@3.5.17
+
+fancy_echo "Installing 
